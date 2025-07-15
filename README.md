@@ -5,7 +5,7 @@
  
 
 
-<img src = "[https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif](https://www.google.com/imgres?q=image%20computer%20science%20and%20eng&imgurl=https%3A%2F%2Fwww.iimtindia.net%2FBlog%2Fwp-content%2Fuploads%2F2021%2F06%2FComputer-Science-Engineering1.jpg&imgrefurl=https%3A%2F%2Fwww.iimtindia.net%2FBlog%2Fcomputer-science-engineering%2F&docid=daVqFavrz216NM&tbnid=xuT8klQDfxIQZM&vet=12ahUKEwiR7Y_Nnb6OAxUY1jgGHQHUIWAQM3oECF8QAA..i&w=700&h=500&hcb=2&ved=2ahUKEwiR7Y_Nnb6OAxUY1jgGHQHUIWAQM3oECF8QAA)"/>
+<img src = "https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
 
 <h2>About Me:</h2>
 
