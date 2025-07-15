@@ -9,7 +9,7 @@
 
 <h2>About Me:</h2>
 
-- 🔭 I’m currently  studying in **3rd year CSE**
+- 🔭 I’m currently  studying in **4th year CSE**
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -31,13 +31,13 @@
  
 <h2>📱 Connect with me:</h2>
 <p>
- <a href="mailto:joy.mascarenhas@outlook.com" target="blank">
+ <a href="mailto:venkateshraos177@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
  </a>
- <a href="https://linkedin.com/in/joy-mascarenhas" target="blank">
-  <img src="https://www.linkedin.com/in/venkatesh-rao-s-687154221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn" />
+ <a href="https://www.linkedin.com/in/venkatesh-rao-s-687154221" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
  </a>
- <a href="https://instagram.com/joym.7489" target="blank">
-  <img src="https://www.instagram.com/__venky___77?igsh=cms1Nml3OXg1MDRr" alt="Instagram" />
+ <a href="https://www.instagram.com/__venky___77?igsh=cms1Nml3OXg1MDRr" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
  </a>
 </p> 
