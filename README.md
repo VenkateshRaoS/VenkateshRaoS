@@ -5,8 +5,6 @@
  
 
 
-<img src = ""/>
-
 <h2>About Me:</h2>
 
 - 🔭 I’m currently  studying in **4th year CSE**
